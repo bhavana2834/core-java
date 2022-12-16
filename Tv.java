@@ -1,0 +1,6 @@
+class Tv extends ElectronicDevice{
+
+
+
+
+}

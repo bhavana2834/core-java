@@ -1,7 +1,0 @@
-class Hp extends Laptopp{
-
-
-
-
-
-}

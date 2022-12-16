@@ -1,0 +1,3 @@
+class Javaoops extends Programme {
+
+}

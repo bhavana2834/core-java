@@ -1,15 +1,10 @@
 class Fridge{
 
-		String color;
-		String capacity;
-		double price;
-		String shape;
+		public String toCool(){
 		
-		public void toStore(){
+		return "to store things";
 		
-		System.out.println("to store items");
 		}
-
 
 
 

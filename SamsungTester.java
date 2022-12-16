@@ -4,12 +4,12 @@ class SamsungTester{
 		System.out.println("main method started");
 
 		Samsung sam = new Samsung();
-		String data = Samsung.gaming();
-		String data1 = Samsung.browse();
+		String data = sam.gaming();
+		String data1 = sam.browse();
 		
 		System.out.println("gaming is for "+data);
-		System.out.println("gaming is for "+data1);
+		System.out.println("browse is for "+data1);
 		
 		System.out.println("main method started");
-
+		}
 }
