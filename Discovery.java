@@ -1,4 +1,0 @@
-class Discovery extends Channel{
-
-
-}

@@ -1,7 +1,0 @@
-class RedBull extends EnergyDrink{
-
-
-
-
-
-}

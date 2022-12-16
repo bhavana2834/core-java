@@ -1,6 +1,0 @@
-class Bangalore extends City{
-
-
-
-
-}

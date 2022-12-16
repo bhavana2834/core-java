@@ -1,5 +1,0 @@
-class Mrf extends Bat{
-
-
-
-}
